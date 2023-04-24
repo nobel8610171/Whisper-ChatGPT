@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7f36a18922da4ece3d20",
+    "revision": "3484c84eacc60c3d2783",
     "url": "/Whisper-ChatGPT/static/css/main.a5709ff5.chunk.css"
   },
   {
-    "revision": "7f36a18922da4ece3d20",
-    "url": "/Whisper-ChatGPT/static/js/main.7f36a189.chunk.js"
+    "revision": "3484c84eacc60c3d2783",
+    "url": "/Whisper-ChatGPT/static/js/main.3484c84e.chunk.js"
   },
   {
     "revision": "9cf301ae317767194c66",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Whisper-ChatGPT/static/js/runtime~main.223b353a.js"
   },
   {
-    "revision": "01859e8fe02e783168af7b2ce8bc814e",
+    "revision": "10685e18185dae3273c589d1bd84944a",
     "url": "/Whisper-ChatGPT/index.html"
   }
 ];

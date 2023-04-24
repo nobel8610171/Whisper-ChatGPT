@@ -1,7 +1,7 @@
 {
   "main.css": "/Whisper-ChatGPT/static/css/main.a5709ff5.chunk.css",
-  "main.js": "/Whisper-ChatGPT/static/js/main.7f36a189.chunk.js",
-  "main.js.map": "/Whisper-ChatGPT/static/js/main.7f36a189.chunk.js.map",
+  "main.js": "/Whisper-ChatGPT/static/js/main.3484c84e.chunk.js",
+  "main.js.map": "/Whisper-ChatGPT/static/js/main.3484c84e.chunk.js.map",
   "static/js/1.9cf301ae.chunk.js": "/Whisper-ChatGPT/static/js/1.9cf301ae.chunk.js",
   "static/js/1.9cf301ae.chunk.js.map": "/Whisper-ChatGPT/static/js/1.9cf301ae.chunk.js.map",
   "static/js/2.189aa842.chunk.js": "/Whisper-ChatGPT/static/js/2.189aa842.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/Whisper-ChatGPT/static/js/runtime~main.223b353a.js.map",
   "static/css/main.a5709ff5.chunk.css.map": "/Whisper-ChatGPT/static/css/main.a5709ff5.chunk.css.map",
   "index.html": "/Whisper-ChatGPT/index.html",
-  "precache-manifest.47f0a400d82d2c96b3c029f89f3ea5dc.js": "/Whisper-ChatGPT/precache-manifest.47f0a400d82d2c96b3c029f89f3ea5dc.js",
+  "precache-manifest.c9f9600fc26ee4b231ca7a1e0297c2f2.js": "/Whisper-ChatGPT/precache-manifest.c9f9600fc26ee4b231ca7a1e0297c2f2.js",
   "service-worker.js": "/Whisper-ChatGPT/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Whisper-ChatGPT/precache-manifest.47f0a400d82d2c96b3c029f89f3ea5dc.js"
+  "/Whisper-ChatGPT/precache-manifest.c9f9600fc26ee4b231ca7a1e0297c2f2.js"
 );
 
 workbox.clientsClaim();
