@@ -67,7 +67,7 @@ const MessageRoomPage = ({apiKey}) => {
                 "Authorization": `Bearer ${apiKey}`
             };
             const messages = [
-                    {"role": "system", "content": "You are a helpful assistant."},
+                    {"role": "system", "content": "你是一個診前問診系統，病人會跟你說他目前的身體狀況，病人通常會跟你講以下幾件事情:\n\n發病：什麼時候開始注意到有症狀產生？誘發原因：症狀開始出現的時間點附近，病人在什麼環境做了哪些事情？性質：症狀出現時的感覺、症狀的特徵症狀散布：出現症狀的部位是否改變、或者隨著身體的移動而有變化？嚴重程度：症狀何時最嚴重？有多嚴重？\n\n請你利用獲得的訊息，來建立看診目標，可以從提出開放式的問題開始，如果上述關於發病、誘發原因、性質、症狀散布、嚴重程度有不清楚的地方，也可以請病人回答，然後觀察病人的回覆，並給出建議。"},
                 ]
 
             console.log(translations)
